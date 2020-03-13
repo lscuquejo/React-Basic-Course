@@ -4,5 +4,6 @@ Ep3 - Completed
 Ep4 - Completed
 Ep5 - Completed
 Ep6 - Completed
+Ep7 - Completed
 
 
