@@ -16,3 +16,4 @@ Section 02 (Optional)
   
 Section 03 (React basics)
   Ep25 - Completed
+  Ep26 - Completed
