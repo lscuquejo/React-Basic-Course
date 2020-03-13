@@ -17,3 +17,11 @@ Section 02 (Optional)
 Section 03 (React basics)
   Ep25 - Completed
   Ep26 - Completed
+  Ep27 - Completed
+  Ep28 - Completed
+  Ep29 - Completed
+  Ep30 - Completed
+  Ep31 - Completed
+  Ep32 - Completed
+  Ep33 - Completed
+  Ep34 - Completed
